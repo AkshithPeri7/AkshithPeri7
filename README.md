@@ -2,17 +2,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:24283B,100:7AA2F7&height=190&section=header&text=Akshith%20Peri&fontSize=48&fontColor=C0CAF5&fontAlignY=38&desc=Building%20ideas%20into%20working%20products&descAlignY=60&descSize=16" width="100%" alt="Akshith Peri profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,35:24283B,70:414868,100:7AA2F7&height=210&section=header&text=AKSHITH%20PERI&fontSize=52&fontColor=C0CAF5&fontAlignY=38&desc=Turning%20ideas%20into%20useful%20technology&descAlignY=61&descSize=17" width="100%" alt="Akshith Peri profile banner"/>
 
-### Full-Stack Developer&nbsp; · &nbsp;Data Scientist&nbsp; · &nbsp;AI/ML Engineer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=7AA2F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Exploring+Data+Science+%26+AI%2FML;Building+projects+that+solve+real+problems" alt="Typing introduction"/></a>
 
 <p>
-  <a href="https://github.com/AkshithPeri7"><img src="https://img.shields.io/badge/GitHub-AkshithPeri7-24283B?style=for-the-badge&logo=github&logoColor=C0CAF5" alt="GitHub"/></a>
-  <a href="https://github.com/AkshithPeri7?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-7AA2F7?style=for-the-badge&logo=github&logoColor=1A1B27" alt="Repositories"/></a>
-  <a href="https://akshith-peri.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-7AA2F7?style=for-the-badge&logo=vercel&logoColor=1A1B27&labelColor=BB9AF7" alt="Explore My Portfolio"/></a>
+  <a href="https://github.com/AkshithPeri7"><img src="https://img.shields.io/badge/GitHub-Profile-24283B?style=for-the-badge&logo=github&logoColor=C0CAF5" alt="GitHub profile"/></a>
+  <a href="https://github.com/AkshithPeri7?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-414868?style=for-the-badge&logo=github&logoColor=C0CAF5" alt="Explore repositories"/></a>
+  <a href="https://akshith-peri.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Visit-My%20Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=1A1B27" alt="Visit my portfolio"/></a>
 </p>
 
-*I build full-stack applications, explore data-driven problem solving, and develop practical AI-powered experiences.*
+*I enjoy building end-to-end applications, working with data, and exploring practical AI-powered solutions.*
 
 </div>
 
@@ -20,17 +20,32 @@
 
 ## 👨‍💻 About Me
 
-- **Full-Stack Developer:** creating end-to-end applications, backend services, APIs, and interactive user experiences.
-- **Data Scientist:** exploring data processing, financial modelling, analytical problem-solving, and decision systems.
-- **AI/ML Engineer:** experimenting with applied AI, intelligent tools, and agent-oriented systems.
-- I enjoy moving from an idea to architecture, implementation, testing, and a usable product.
-- I learn by building, exploring open-source software, and improving projects through iteration.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Development
+Building end-to-end applications, backend services, APIs, and interactive user experiences. I enjoy taking an idea from initial design through implementation and testing.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Data & AI
+Exploring data processing, financial modelling, applied AI, intelligent tools, and agent-oriented systems.
+
+</td>
+</tr>
+</table>
+
+- 🔭 I learn by building practical projects and experimenting with new technologies.
+- 🌱 I enjoy turning complex ideas into useful, working products.
+- 🤝 Interested in open-source exploration, collaboration, and continuous improvement.
 
 ---
 
-## 🚀 Project Portfolio
+## 🚀 Featured Projects
 
-A selection of projects with distinct goals across application development, data-driven systems, and applied AI.
+A selection of projects across full-stack development, data-driven systems, and applied AI. Explore the repositories to see implementation details, technologies, and progress.
 
 ### 🌐 Full-Stack Development
 
@@ -159,7 +174,7 @@ These are existing open-source repositories I explore. They are forks, and the u
 
 ---
 
-## 🧰 Technology Toolbox
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -198,7 +213,7 @@ These are existing open-source repositories I explore. They are forks, and the u
 
 ---
 
-## 📈 GitHub at a Glance
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -215,7 +230,7 @@ These are existing open-source repositories I explore. They are forks, and the u
 
 <div align="center">
 
-### Build · Learn · Experiment · Improve
+### BUILD · LEARN · EXPERIMENT · IMPROVE
 
 **Thanks for visiting — feel free to explore my repositories!** ⭐
 
