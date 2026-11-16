@@ -1,78 +1,177 @@
-# Hi, I'm Akshith Peri 👋
-
-### Full-Stack Developer | Data Scientist | AI/ML Engineer
-
-I build web and software applications, explore data-driven problem solving, and experiment with AI-powered systems. I enjoy taking ideas from architecture and implementation through to usable products.
-
-- 🌐 Interested in full-stack application development and backend systems
-- 📊 Exploring data science, financial modelling, data processing, and analytical problem solving
-- 🤖 Interested in practical AI/ML applications and intelligent tools
-- 🛠️ I enjoy learning by building and exploring open-source projects
-
----
-
-## 🚀 Featured Projects
-
-### 🌐 Full-Stack Development
-
-**[AutoVerse — 3D Digital Showroom & AI Car Buying Advisor](https://github.com/AkshithPeri7/AutoVerse-The-CarApp)**  
-A cross-platform automotive platform for the Indian market. It includes interactive 3D vehicle inspection, side-by-side variant comparisons, feature-difference detection, on-road price estimates, EMI calculations, and an automotive buying assistant. The README documents React Native, Expo, Three.js, Node.js, and Express.
-
-**[NexaBank](https://github.com/AkshithPeri7/nexabank)**  
-A digital banking application with account dashboards, transfers, loan management, multiple account types, KYC workflows, and an admin portal. The documented stack includes HTML, CSS, JavaScript, Node.js, Express, MySQL, and Supabase.
-
-**[CaseVault](https://github.com/AkshithPeri7/CaseVault)**  
-A digital evidence management system focused on verifiable chain of custody. It documents SHA-256 file fingerprints, append-only hash-linked audit records, Ed25519 signatures, role-based workflows, evidence transfers, and tamper verification. Built with Django, Python, SQLite, and cryptography tools.
-
-**[PlagiaScan](https://github.com/AkshithPeri7/PlagiaScan)**  
-A hackathon project for checking code similarity. Its documented workflow uses a Flask backend, MySQL, Google Custom Search, text-similarity comparison, and optional AI-assisted analysis.
-
-### 📊 Data & Analytical Projects
-
-**[AffordIQ — Buy or Wait?](https://github.com/AkshithPeri7/hackerrank-orchestrate-september26)**  
-A financial affordability decision engine developed for the HackerRank Orchestrate challenge. It reconstructs financial timelines, projects 90-day cash flow, generates and ranks payment plans, and validates that essential expenses and minimum balances remain protected. The official scoring pipeline is deterministic and rule-based, with no LLM calls in that path.  
-*This repository is a fork of [interviewstreet/hackerrank-orchestrate-september26](https://github.com/interviewstreet/hackerrank-orchestrate-september26).*
-
-**[AgriScan](https://github.com/AkshithPeri7/AgriScan)**  
-An agriculture-focused platform combining crop-disease assistance, treatment guidance, multilingual support, and geospatial discovery of agricultural services. Its README documents a React/Vite frontend, FastAPI backend, PostgreSQL/PostGIS, and a TFLite-ready inference wrapper. The documented inference component is a stub, so this is presented as an AI-enabled platform project rather than a completed, validated ML model.
-
-### 🧰 Python Application
-
-**[Blood Bank Management](https://github.com/AkshithPeri7/Blood-Bank-Management-)**  
-A Python repository focused on blood-bank management.
-
----
-
-## 🌱 Open-Source Projects & Forks
-
-I also explore and work with open-source projects. The following repositories are forks; the upstream projects and original maintainers are credited below.
-
-- **[Hindsight](https://github.com/AkshithPeri7/hindsight)** — fork of [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight), an agent memory system designed to help AI agents learn over time.
-- **[RocketRide Server](https://github.com/AkshithPeri7/rocketride-server)** — fork of [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server), an open-source AI development environment and pipeline runtime.
-- **[Nasiko](https://github.com/AkshithPeri7/nasiko)** — fork of [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko), an open runtime for agents, coding harnesses, frameworks, and tools.
-- **[AffordIQ challenge repository](https://github.com/AkshithPeri7/hackerrank-orchestrate-september26)** — fork of [interviewstreet/hackerrank-orchestrate-september26](https://github.com/interviewstreet/hackerrank-orchestrate-september26), containing my challenge solution.
-
----
-
-## 🛠️ Technologies
-
-The technologies documented across my projects include:
-
-- **Languages:** Python, JavaScript, HTML, CSS, Rust
-- **Frontend & Mobile:** React, React Native, Expo, Vite, Three.js
-- **Backend:** FastAPI, Flask, Django, Node.js, Express
-- **Data & Storage:** MySQL, PostgreSQL, PostGIS, SQLite
-- **Security & Tools:** Git, GitHub, SHA-256, Ed25519
-
----
-
-## 📈 GitHub
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         AKSHITH PERI                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshithPeri7&show_icons=true&theme=tokyonight&hide_border=true)
+# Hey, I'm Akshith Peri 👋
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshithPeri7&layout=compact&theme=tokyonight&hide_border=true)
+### Full-Stack Developer&nbsp; · &nbsp;Data Scientist&nbsp; · &nbsp;AI/ML Engineer
+
+I turn ideas into useful applications — from full-stack products and data-driven
+decision systems to practical AI-powered experiences.
+
+<br/>
+
+<a href="https://github.com/AkshithPeri7">
+  <img src="https://img.shields.io/badge/GitHub-AkshithPeri7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/AkshithPeri7?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My_Repositories-2F80ED?style=for-the-badge&logo=github" alt="Explore repositories"/>
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌐 **Full-Stack Development:** building web and software applications, backend services, and interactive experiences.
+- 📊 **Data Science:** exploring financial modelling, data processing, analytical problem-solving, and decision systems.
+- 🤖 **AI / ML:** interested in practical AI applications, intelligent tools, and agent-based systems.
+- 🧩 I enjoy taking a project from an idea through architecture and implementation to a usable product.
+- 🌱 Always learning, experimenting, and improving through hands-on projects.
+
+---
+
+## ⭐ Featured Projects
+
+A selection of projects I've built and worked on. Each title links to its repository.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚘 [AutoVerse](https://github.com/AkshithPeri7/AutoVerse-The-CarApp)
+
+**3D Digital Showroom & AI Car Buying Advisor**
+
+An automotive platform for the Indian market featuring interactive 3D vehicle inspection, side-by-side variant comparisons, feature-difference detection, on-road price estimates, EMI calculations, and an automotive buying assistant.
+
+**Stack:** React Native · Expo · Three.js · Node.js · Express
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [CaseVault](https://github.com/AkshithPeri7/CaseVault)
+
+**Digital Evidence & Chain-of-Custody Management**
+
+A digital evidence management system focused on verifiable chain of custody, with SHA-256 file fingerprints, hash-linked audit records, Ed25519 signatures, role-based workflows, evidence transfers, and tamper verification.
+
+**Stack:** Python · Django · SQLite · Cryptography
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 [AffordIQ](https://github.com/AkshithPeri7/hackerrank-orchestrate-september26)
+
+**Financial Affordability Decision Engine**
+
+An original project developed for the HackerRank hackathon and submitted through the required challenge repository. It reconstructs financial timelines, projects 90-day cash flow, ranks payment plans, and checks that essential expenses and minimum balances remain protected.
+
+**Focus:** Financial modelling · Cash-flow simulation · Decision systems
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 [AgriScan](https://github.com/AkshithPeri7/AgriScan)
+
+**Agriculture Assistance Platform**
+
+An agriculture-focused platform combining crop-disease assistance, treatment guidance, multilingual support, and geospatial discovery of agricultural services. The repository documents a TFLite-ready inference wrapper; the inference component is currently a stub.
+
+**Stack:** React · Vite · Python · FastAPI · PostgreSQL · PostGIS
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 [NexaBank](https://github.com/AkshithPeri7/nexabank)
+
+**Digital Banking Application**
+
+A digital banking application with account dashboards, transfers, loan management, multiple account types, KYC workflows, and an admin portal.
+
+**Stack:** HTML · CSS · JavaScript · Node.js · Express · MySQL · Supabase
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 [PlagiaScan](https://github.com/AkshithPeri7/PlagiaScan)
+
+**Code Similarity & Plagiarism Checker**
+
+A hackathon project for checking code similarity. Its documented workflow uses a Flask backend, MySQL, Google Custom Search, text-similarity comparison, and optional AI-assisted analysis.
+
+**Stack:** Python · Flask · MySQL
+
+</td>
+</tr>
+</table>
+
+### More Projects
+
+- 🩸 **[Blood Bank Management](https://github.com/AkshithPeri7/Blood-Bank-Management-)** — Python-based blood-bank management application.
+
+---
+
+## 🧪 Open-Source Projects I Explore
+
+I also explore and work with existing open-source projects. These repositories are forks, and the original projects are credited here:
+
+- **[Hindsight](https://github.com/AkshithPeri7/hindsight)** — fork of [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight), an agent memory system designed to help AI agents learn over time.
+- **[RocketRide Server](https://github.com/AkshithPeri7/rocketride-server)** — fork of [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server), an AI development environment and pipeline runtime.
+- **[Nasiko](https://github.com/AkshithPeri7/nasiko)** — fork of [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko), an open runtime for agents, coding harnesses, frameworks, and tools.
+
+**Hackathon repository note:** AffordIQ is my original hackathon project. The HackerRank challenge repository was the required place to submit the project files; the repository's fork status refers to the challenge repository, not authorship of AffordIQ.
+
+---
+
+## 🧰 Technologies
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+<br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+*Technologies shown are drawn from the documentation of the projects above.*
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AkshithPeri7&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Akshith's GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshithPeri7&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=AkshithPeri7&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -80,8 +179,10 @@ The technologies documented across my projects include:
 
 <div align="center">
 
-**Building • Learning • Improving**
+### 💡 Build · Learn · Experiment · Improve
 
-Thanks for stopping by! ⭐
+Thanks for visiting my profile. Feel free to explore my repositories and connect!
+
+[![GitHub followers](https://img.shields.io/github/followers/AkshithPeri7?style=social)](https://github.com/AkshithPeri7?tab=followers)
 
 </div>
