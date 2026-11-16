@@ -7,7 +7,7 @@ I build web and software applications, explore data-driven problem solving, and 
 - 🌐 Interested in full-stack application development and backend systems
 - 📊 Exploring data science, financial modelling, data processing, and analytical problem solving
 - 🤖 Interested in practical AI/ML applications and intelligent tools
-- 🛠️ I enjoy learning by building and contributing to open-source projects
+- 🛠️ I enjoy learning by building and exploring open-source projects
 
 ---
 
