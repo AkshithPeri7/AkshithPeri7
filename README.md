@@ -140,23 +140,44 @@ The system reconstructs financial timelines, projects 90-day cash flow, evaluate
 </td>
 <td width="50%" valign="top">
 
-<h3>🌾 <a href="https://github.com/AkshithPeri7/AgriScan">AgriScan</a></h3>
+<h3>🤖 <a href="https://github.com/AkshithPeri7/Math-Telegram-Bot-Using-Python">Math Telegram Bot</a></h3>
 
-**Agriculture Assistance Platform**
+**Python-Based Mathematics Utility Bot**
 
-An agriculture-focused platform combining crop-disease assistance, treatment guidance, multilingual support, and geospatial discovery of agricultural services.
+A Telegram bot project associated with a published research paper. The documented utilities include factorial, prime and Armstrong checks, palindrome checks, Fibonacci sequences, GCD, LCM, and digit operations, using an interactive chat interface.
 
-The repository documents a React/Vite frontend, FastAPI backend, PostgreSQL/PostGIS, and a TFLite-ready inference wrapper. The inference component is currently a stub, so it is not represented here as a completed or validated ML model.
-
-**Technologies:** React · Vite · Python · FastAPI · PostgreSQL · PostGIS
+**Technologies:** Python · Telegram Bot API · python-telegram-bot
 
 </td>
 </tr>
 </table>
 
+### 🌐 Personal Website
+
+<h3>🏁 <a href="https://github.com/AkshithPeri7/portfolio">Developer Portfolio</a></h3>
+
+A responsive, automotive-inspired portfolio featuring a custom SVG sports-car illustration, animated sections, project highlights, technology overview, and an AutoVerse spotlight. Built with HTML, CSS, and vanilla JavaScript.
+
+**Live:** [akshith-peri.vercel.app](https://akshith-peri.vercel.app/)
+
 ### 🐍 Other Application
 
-- 🩸 **[Blood Bank Management](https://github.com/AkshithPeri7/Blood-Bank-Management-)** — Python-based blood-bank management application.
+- 🩸 **[Blood Bank Management](https://github.com/AkshithPeri7/Blood-Bank-Management)** — Desktop blood-bank management system built with Python Tkinter and MySQL.
+
+---
+
+## 📄 Published Research
+
+**[Math Telegram Bot Using Python](https://www.jetir.org/view?paper=JETIR2507096)**
+
+Published in the *Journal of Emerging Technologies and Innovative Research (JETIR)*, July 2025.
+
+- **Paper ID:** JETIR2507096
+- **Volume / Issue:** 12 / 7
+- **Pages:** a929–a941
+- **Authors:** Akshith Peri, Anup Kabra, Chirag D Bedre, Choyan Paul, and Dr. Nirmala S.
+
+[Read the paper (PDF)](https://www.jetir.org/papers/JETIR2507096.pdf) · [View the publication](https://www.jetir.org/view?paper=JETIR2507096)
 
 ---
 
