@@ -152,14 +152,6 @@ A Telegram bot project associated with a published research paper. The documente
 </tr>
 </table>
 
-### 🌐 Personal Website
-
-<h3>🏁 <a href="https://github.com/AkshithPeri7/portfolio">Developer Portfolio</a></h3>
-
-A responsive, automotive-inspired portfolio featuring a custom SVG sports-car illustration, animated sections, project highlights, technology overview, and an AutoVerse spotlight. Built with HTML, CSS, and vanilla JavaScript.
-
-**Live:** [akshith-peri.vercel.app](https://akshith-peri.vercel.app/)
-
 ### 🐍 Other Application
 
 - 🩸 **[Blood Bank Management](https://github.com/AkshithPeri7/Blood-Bank-Management)** — Desktop blood-bank management system built with Python Tkinter and MySQL.
