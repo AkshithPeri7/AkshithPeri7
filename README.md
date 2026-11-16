@@ -9,6 +9,7 @@
 <p>
   <a href="https://github.com/AkshithPeri7"><img src="https://img.shields.io/badge/GitHub-AkshithPeri7-24283B?style=for-the-badge&logo=github&logoColor=C0CAF5" alt="GitHub"/></a>
   <a href="https://github.com/AkshithPeri7?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-7AA2F7?style=for-the-badge&logo=github&logoColor=1A1B27" alt="Repositories"/></a>
+  <a href="https://akshith-peri.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-7C9EFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/></a>
 </p>
 
 *I build full-stack applications, explore data-driven problem solving, and develop practical AI-powered experiences.*
